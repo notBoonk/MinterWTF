@@ -8,7 +8,7 @@ These "Minters" act as ethereum wallets, allowing the user to mint from multiple
 V2 of Minter.wtf brings plenty of gas optimization to the table over V1. The three gas guzzlers are **Creating Minters**, **Mass Mints**, and **Mass Transfers**.
 
 
-| Function             | V1                                                                | V2                                                                | % Change                                                                |
+| Function             | V1 Gas Used                                                               | V2 Gas Used                                                                | % Change                                                                |
 | ----------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------ | ------------------------------------------------------------------ |
 | Create Minters | 12,222,266 | 4,819,401 | -86.9% |
 | Mass Mint | 2,120,938 | 651,069 | -106.1% |

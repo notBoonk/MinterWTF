@@ -140,12 +140,7 @@ contract Minter is Ownable {
     }
     
     function mint(address _target, uint256 _cost, bytes memory _data, uint256 _iterations, uint256 _minters) external payable isAllowed {
-        require(_minters <= Minters[msg.sender].length);
-
-        SubMinter[] memory userMinters = Minters[msg.sender];
-        for (uint256 i; i < _minters; i++) {
-            userMinters[i].mint{value: _cost}(_iterations, _target, _cost, _data);
-        }
+        // [REDACTED]
     }
 
 }

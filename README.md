@@ -18,4 +18,4 @@ Note: All tests are in multiples of 10 (example: Creating **10** Minters)
 
 ## Links
 
- - [Etherscan](https://etherscan.io/address/0x5695201ae931b0f667dc24397015f10bba76fd5e)
+ - [Etherscan](https://etherscan.io/address/0x7208724387bd2ca544be4964aa212c5f8ac5044a)
